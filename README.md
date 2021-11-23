@@ -1,1 +1,3 @@
 # Spotify-Data-Analysis-and-Recommendation-System
+Dataset used- https://drive.google.com/drive/folders/12jxedeJ27wQ3C1JZweeiP_6ifA9NsBHv?usp=sharing
+I have used content based recommendation system with Vector space model. In this model, each item is represented as a vector of its attributes in an n-dimensional space and the angle between the vectors is calculated to determine the similarity between the vectors. Then, I have used Cosine similarity. Cosine similarity measure is widely used to determine the proximity of two vectors represented using this model, and ultimately give a measure of the similarity between the vectors.
